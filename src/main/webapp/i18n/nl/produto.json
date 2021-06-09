@@ -1,0 +1,26 @@
+{
+  "acaiValleyApp": {
+    "produto": {
+      "home": {
+        "title": "Produtos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Produto",
+        "createOrEditLabel": "Maak of wijzig een Produto",
+        "notFound": "No Produtos found"
+      },
+      "created": "A new Produto is created with identifier {{ param }}",
+      "updated": "A Produto is updated with identifier {{ param }}",
+      "deleted": "A Produto is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Produto {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Produto"
+      },
+      "id": "ID",
+      "nome": "Nome",
+      "valor": "Valor",
+      "descricao": "Descricao"
+    }
+  }
+}
