@@ -1,0 +1,26 @@
+{
+  "acaiValleyApp": {
+    "produto": {
+      "home": {
+        "title": "Produtos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Vytvořit Produto",
+        "createOrEditLabel": "Vytvořit nebo upravit Produto",
+        "notFound": "No Produtos found"
+      },
+      "created": "Byl vytvořen potomek entity Produto s identifikátorem {{ param }}",
+      "updated": "Potomek entity Produto s identifikátorem {{ param }} byl upravený.",
+      "deleted": "Potomek entity Produto s identifikátorem {{ param }} bol smazaný.",
+      "delete": {
+        "question": "Jste si jisti, že chcete smazat Produto {{ id }}?"
+      },
+      "detail": {
+        "title": "Produto"
+      },
+      "id": "ID",
+      "nome": "Nome",
+      "valor": "Valor",
+      "descricao": "Descricao"
+    }
+  }
+}

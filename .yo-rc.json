@@ -42,7 +42,9 @@
     "jwtSecretKey": "NDU2NjQxMTI2NWFlZWNjMzI0OWRkMmY0OGYyNWMzOWQ0YzI1YTVmOTIzNDI0OTI0NjM0MzY2MTYyYTMxNGVkOTc3NGQ0YmYwZWJiNDBjZjAwZmI5YTc2MWJjOTMzMzRjYTYxZDg4Mzg5MDgzODVmZGVhMTZlOWZmNmEzMmY3ODE=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Produto"],
+    "lastLiquibaseTimestamp": 1623201969000
   },
   "git-provider": "GitHub",
   "git-company": "geovafc",
